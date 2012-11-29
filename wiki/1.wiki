@@ -1,0 +1,10 @@
+meeting summary
+
+开学前的那次开会主要谈的一些事情如下：
+1.particle simulation（这个是重点）先尝试跑一个粒子系统，类似于杨宇的那个，再整合进SARndbox
+2.AR中加mark代表建筑物
+3.blender for skeleton（骨骼）
+4.Tell-Collubration（之前有一个这个邮件，在SARndbox那个网页也可以找到）
+5.把opengl、GPU这些搞熟
+6.学学C++
+7.尝试找找VRUI的东西，跟大家共享
