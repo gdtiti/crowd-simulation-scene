@@ -1,0 +1,11 @@
+1.I find an short article about particle simulation:
+
+http://www-ssc.igpp.ucla.edu/personnel/russell/ESS265/Ch10/ylwang/node10.html
+
+2.There has a video about particle simulation:
+
+http://www.youtube.com/watch?v=_LagqqsVO28
+http://www.youtube.com/watch?v=RuZQpWo9Qhs
+http://www.youtube.com/watch?v=K590bQz6IjE
+
+3.Finally(I think is the most important),I find an article about:A Fast Algorithm for Particle Simulation,maybe we can achieve some useful information from it.
