@@ -52,7 +52,7 @@ public:
 
 	Vec3 truncate(const Vec3 &a,const float& b)
 	{
-		return a.length()>b ? a:a.normalize()*b;
+		return a.length()<b ? a:a.normalize()*b;
 	}//截断函数，自己写的，当a的大小比b大时将a的大小变成b，a的方向不变
 
 	void next_position(const Vec3 steering_direction)
